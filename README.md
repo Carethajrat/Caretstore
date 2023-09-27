@@ -1,2 +1,4 @@
 # Caretstore
-Caretstore is an E-commerce clone site build with technologies like React JS and Redux and for the data fakestoreapi has been used for dummy data.
+Caretstore is an E-commerce site build with front end technologies like React JS and Redux.
+
+The data being used is dummy from fakestore api.
